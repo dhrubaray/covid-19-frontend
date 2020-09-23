@@ -1,0 +1,10 @@
+export const CORS_PROTOCOL = 'http';
+export const CORS_HOST = 'localhost';
+export const CORS_PORT = 4000;
+export const CORS_CONTINENTS_PATH = 'continents';
+export const CORS_CONTINENT_PATH = 'continent';
+export const CORS_COUNTRY_PATH = 'country';
+export const CORS_CONTINENTS_URL = `${CORS_PROTOCOL}://${CORS_HOST}:${CORS_PORT}/${CORS_CONTINENTS_PATH}`;
+export const CORS_CONTINENT_URL = `${CORS_PROTOCOL}://${CORS_HOST}:${CORS_PORT}/${CORS_CONTINENT_PATH}`;
+export const CORS_COUNTRY_URL = `${CORS_PROTOCOL}://${CORS_HOST}:${CORS_PORT}/${CORS_COUNTRY_PATH}`;
+export const MAPS = ['PEOPLE_POSITIVE_CASES_COUNT', 'PEOPLE_POSITIVE_NEW_CASES_COUNT', 'PEOPLE_DEATH_COUNT', 'PEOPLE_DEATH_NEW_COUNT'];
