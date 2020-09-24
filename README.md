@@ -8,4 +8,4 @@
    1. **git clone https://github.com/dhrubaray/covid-19-backend.git**
    1. **cd covid-19-frontend**
    1. **npm start**
-1. 
+1. Your default browser will automatically open the home page with the **npm start** command.
